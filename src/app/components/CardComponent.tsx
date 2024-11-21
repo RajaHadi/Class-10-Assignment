@@ -5,7 +5,7 @@ const CardComponent = () => {
   return (
     <div>
       <h1 className="text-center font-serif text-3xl md:text-4xl font-extrabold text-blue-600 p-5 lg:text-5xl">
-        Card's Assignment(class-10)
+        Cards Assignment(class-10)
       </h1>
 
       <div className="flex flex-col md:flex-row md:flex-wrap justify-around mt-5">
